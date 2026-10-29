@@ -278,7 +278,7 @@ letter-spacing:.13em;
 color:var(--muted);
 margin:0 0 14px}
 .email{
-font-size:clamp(19px,3.3vw,36px);
+font-size:18px;
 letter-spacing:-1px;
 text-decoration-thickness:1px;
 text-underline-offset:8px}
