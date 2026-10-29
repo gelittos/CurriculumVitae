@@ -960,3 +960,8 @@ padding-bottom:10px}
 .hero-description{
 font-size:14px}
 }
+@media (max-width: 600px) {
+  .portrait-hint-second {
+    display: block;
+  }
+}
