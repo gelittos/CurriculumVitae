@@ -286,7 +286,7 @@ margin:0 0 14px}
 .contact-links .linkedin-link {
   font-size: clamp(18px, 2.5vw, 26px);
   font-weight: 500;
-  color: var(--ink);
+  color: var(--accent);
   letter-spacing: 0;
   text-decoration: underline;
   text-decoration-thickness: 1px;
@@ -647,8 +647,6 @@ font-size:12px}
 .thesis-content a{
 font-weight:600;
 font-size:12px}
-.email{
-font-size:clamp(18px,3vw,34px)}
 footer{
 border-top:3px solid var(--ink)}
 @keyframes portrait-in{
